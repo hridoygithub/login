@@ -1,0 +1,22 @@
+h1{
+    background-color: blue;
+    font-size: 44px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+* {
+    text-align: center;
+}
+form{
+    background-color: aqua;
+    margin-left: 250px;
+    margin-right: 250px;
+
+
+}
+.A{
+    background-color: black;
+    color: whitesmoke;
+    margin-left: 100px;
+    margin-right: 100px;
+}
